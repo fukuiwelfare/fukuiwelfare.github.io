@@ -1,0 +1,88 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ja">
+
+<!--2024/07/14 00:04:40-->
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <meta http-equiv="Content-Script-Type" content="text/javascript">
+  <meta name="GENERATOR" content="ホームページV4">
+  <title>詳細ページ１ - 福井の福祉を！</title>
+  <link rel="stylesheet" href="05_green_h2_0120.css" type="text/css" media="all">
+</head>
+
+<body>
+  <div id="page">
+  <div id="header"></div>
+  <div id="title">
+  <h1><img src="logo_sitetitle_2.png" alt="福井の福祉を！" height="40" width="278" border="0"></h1></div>
+  <div id="menubar"><div class="mainmenu"><ul><li class="mainmenulistitem"><span class="mainmenuitem"><span class="mainmenuitemright"><span class="mainmenuitemcenter"><a href="index.html" class="mainmenuitemlink"><span class="mainmenuitemmark">トップ</span></a></span></span></span></li><li class="mainmenulistitem"><span class="mainmenuitem"><span class="mainmenuitemright"><span class="mainmenuitemcenter"><a href="new1.html" class="mainmenuitemlink"><span class="mainmenuitemmark">軽く触れてみる</span></a></span></span></span></li><li class="mainmenulistitem"><span class="mainmenuitem"><span class="mainmenuitemright"><span class="mainmenuitemcenter"><a href="link1.html" class="mainmenuitemlink"><span class="mainmenuitemmark">入ってみる - 福井の福祉を！</span></a></span></span></span></li><li class="mainmenulistitem"><span class="mainmenuitem"><span class="mainmenuitemright"><span class="mainmenuitemcenter"><a href="details1.html" class="mainmenuitemlink"><span class="mainmenuitemmark">沼ってみる - 福井の福祉を！</span></a></span></span></span></li><li class="mainmenulistitem"><span class="mainmenuitem"><span class="mainmenuitemright"><span class="mainmenuitemcenter"><a href="details1001.html" class="mainmenuitemlink"><span class="mainmenuitemmark">さらに</span></a></span></span></span></li></ul>
+</div></div>
+  <div id="side2"></div>
+  <div id="main_wrapper000" class="HPZAutoMarginAdjuster">
+  <div id="main">
+  <h2>さらに</h2>
+  <hr class="horizon1">
+  <table border="0" width="100%" class="table9">
+    <tbody>
+      <tr>
+        <th align="center" valign="middle"><font face="HGP教科書体" size="4" color="Red">発展形態は、こんな感じです</font></th>
+      </tr>
+    </tbody>
+  </table>
+  <table border="0" width="100%" cellpadding="4" cellspacing="0">
+    <tbody>
+      <tr>
+        <td align="left" valign="top">
+        <table align="left" border="0">
+          <tbody>
+            <tr>
+              <td align="center" valign="middle"><img src="detail01.png" alt="" height="200" width="200" border="0"></td>
+            </tr>
+          </tbody>
+        </table>
+        ミュニシパリズムにつながっていきます</td>
+      </tr>
+      <tr>
+        <td>        <hr class="horizon1">
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <table border="0" width="100%" class="table9">
+    <tbody>
+      <tr>
+        <th align="center" valign="middle"><font face="HGP教科書体" size="4" color="Red">こんな感じでさらに大きくなっていきます</font></th>
+      </tr>
+    </tbody>
+  </table>
+  <table border="0" width="100%" cellpadding="4" cellspacing="0">
+    <tbody>
+      <tr>
+        <td><div align="right">〇年〇月〇日</div></td>
+      </tr>
+      <tr>
+        <td align="left" valign="top">
+        <table align="left" border="0">
+          <tbody>
+            <tr>
+              <td align="center" valign="middle"><img src="detail02.png" alt="" height="200" width="200" border="0"></td>
+            </tr>
+          </tbody>
+        </table>
+        ここでの、基本の考え方は、「自分で決めること」です。</td>
+      </tr>
+      <tr>
+        <td>        <hr class="horizon1">
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  </div>
+  </div>
+  <div id="footer"></div>
+  <div id="HPZLPPageTail" style="clear: both;"></div></div>
+</body>
+
+</html>
